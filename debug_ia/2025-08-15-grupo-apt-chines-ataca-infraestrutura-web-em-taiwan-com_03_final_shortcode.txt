@@ -1,0 +1,43 @@
+BR DEFENSE DEBUG - 03_FINAL_SHORTCODE
+================================================================================
+ARQUIVO: 2025-08-15-grupo-apt-chines-ataca-infraestrutura-web-em-taiwan-com.md
+TIMESTAMP: 2025-08-15 21:57:33
+================================================================================
+
+📤 INPUT/PROMPT:
+SHORTCODE GERADO + ANÁLISE:
+🔍 ANÁLISE DO SHORTCODE:
+✅ Campos com dados reais: 19
+⚠️ Campos usando fallback: 0
+❌ Campos vazios: 0
+
+
+
+📥 OUTPUT/RESPONSE:
+{{< brdefense-security-brief 
+titulo="Grupo APT chinês ataca infraestrutura web em Taiwan com malware"
+resumo_executivo="O grupo UAT-7237 representa uma ameaça significativa, utilizando técnicas avançadas para comprometer sistemas críticos. A exploração de vulnerabilidades em servidores desatualizados e o uso de ferramentas como Cobalt Strike e Mimikatz indicam um nível elevado de sofisticação. As organizações devem estar atentas a essas táticas para evitar compromissos semelhantes."
+urgencia="alto"
+categoria="ATAQUE"
+impacto_financeiro="Possíveis perdas financeiras devido a interrupções operacionais e custos de remediação."
+impacto_operacional="Comprometimento de sistemas e extração de credenciais."
+setores_vulneraveis="['Tecnologia da Informação', 'Infraestrutura Crítica']"
+acoes_imediatas="Verificar a atualização de todos os servidores expostos à internet.|Implementar medidas de segurança como firewalls e VPNs para proteger o acesso remoto.|Monitorar logs de acesso e atividades suspeitas em sistemas críticos."
+status_exploracao="ativo"
+urgencia_verificacao="alta"
+relevancia_brasil="CISOs devem se preocupar com a possibilidade de ataques semelhantes em suas organizações, especialmente se utilizam tecnologias vulneráveis."
+compliance_br="Implicações legais e de compliance com a LGPD."
+stat1="Grupo UAT-7237 ativo desde pelo menos 2022."
+stat1_label="Indicador"
+stat2="Uso de Cobalt Strike como backdoor principal."
+stat2_label="Contexto BR"
+stat3="Exploração de servidores desatualizados expostos à internet."
+stat3_label="Urgência"
+data_brief="15/08/2025"
+>}}
+
+📊 PARSED DATA:
+{
+  "shortcode_length": 1582
+}
+
