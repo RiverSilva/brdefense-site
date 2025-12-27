@@ -1,0 +1,43 @@
+BR DEFENSE DEBUG - 03_FINAL_SHORTCODE
+================================================================================
+ARQUIVO: 2025-08-15-criminosos-vendem-contas-de-e-mail-do-fbi-por-us-40-na-dark.md
+TIMESTAMP: 2025-08-15 21:58:06
+================================================================================
+
+📤 INPUT/PROMPT:
+SHORTCODE GERADO + ANÁLISE:
+🔍 ANÁLISE DO SHORTCODE:
+✅ Campos com dados reais: 19
+⚠️ Campos usando fallback: 0
+❌ Campos vazios: 0
+
+
+
+📥 OUTPUT/RESPONSE:
+{{< brdefense-security-brief 
+titulo="Criminosos vendem contas de e-mail do FBI por US$ 40 na dark web"
+resumo_executivo="A venda de contas de e-mail do FBI na dark web representa um risco significativo para a segurança de dados e a confiança nas instituições. A possibilidade de uso dessas contas para fraudes e acesso a informações sensíveis exige atenção imediata dos CISOs, especialmente em relação à conformidade com a LGPD."
+urgencia="alto"
+categoria="PHISHING"
+impacto_financeiro="Possíveis perdas financeiras devido a fraudes e vazamentos de dados."
+impacto_operacional="Possibilidade de envio de dados sensíveis e campanhas de malware."
+setores_vulneraveis="['Setores governamentais, tecnologia, telecomunicações.']"
+acoes_imediatas="Verificar logs de acesso e autenticação para identificar atividades suspeitas.|Implementar autenticação multifator (MFA) para contas sensíveis.|Monitorar continuamente atividades de e-mail e tentativas de acesso não autorizadas."
+status_exploracao="ativo"
+urgencia_verificacao="alta"
+relevancia_brasil="CISOs devem se preocupar com a segurança de dados e a integridade das comunicações, especialmente em um cenário onde contas governamentais são comprometidas."
+compliance_br="Implicações legais e de compliance com a LGPD, especialmente em relação à proteção de dados pessoais."
+stat1="Contas de e-mail do FBI vendidas por US$ 40."
+stat1_label="Indicador"
+stat2="Venda de pacotes com múltiplas contas governamentais."
+stat2_label="Contexto BR"
+stat3="Uso de criptomoeda para transações."
+stat3_label="Urgência"
+data_brief="15/08/2025"
+>}}
+
+📊 PARSED DATA:
+{
+  "shortcode_length": 1582
+}
+
