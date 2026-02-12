@@ -1,0 +1,79 @@
+BR DEFENSE DEBUG - 02_BRIEFING_CONVERSION
+================================================================================
+ARQUIVO: 2025-08-15-clone-falso-de-minecraft-com-virus-rouba-senhas-e-espiona.md
+TIMESTAMP: 2025-08-15 21:58:44
+================================================================================
+
+📤 INPUT/PROMPT:
+CONVERSÃO INTELLIGENCE → BRIEFING
+
+📥 OUTPUT/RESPONSE:
+{
+  "titulo_executivo": "Clone falso de Minecraft com vírus rouba senhas e espiona jogadores",
+  "resumo_executivo": "O incidente com o Eaglercraft e o malware NjRat representa uma ameaça significativa, especialmente para a segurança de dados de crianças. A popularidade de Minecraft e a distribuição do malware por meio de plataformas não oficiais exigem atenção imediata dos CISOs para proteger informações sensíveis e garantir a conformidade com a LGPD.",
+  "nivel_urgencia": "alto",
+  "categoria_visual": "MALWARE",
+  "impacto_negocio": {
+    "financeiro": "Possíveis custos associados a vazamentos de dados e danos à reputação.",
+    "operacional": "Roubo de senhas e acesso não autorizado a webcams e microfones.",
+    "setores_vulneraveis": [
+      "Educação",
+      "Entretenimento",
+      "Tecnologia"
+    ]
+  },
+  "acoes_imediatas": [
+    "Verificar se há instalações não autorizadas de jogos e aplicativos.",
+    "Implementar filtros de segurança para bloquear downloads de fontes não confiáveis.",
+    "Monitorar atividades suspeitas em dispositivos utilizados por crianças e adolescentes."
+  ],
+  "status_ameaca": {
+    "exploracao": "ativo",
+    "urgencia_verificacao": "alta"
+  },
+  "contexto_brasil": {
+    "relevancia": "CISOs devem se preocupar com a segurança de dados de usuários, especialmente em plataformas populares entre crianças, que são mais suscetíveis a ataques.",
+    "compliance": "Implicações legais relacionadas à proteção de dados de menores sob a LGPD."
+  },
+  "indicadores_chave": {
+    "estatistica_1": "Minecraft é um dos jogos mais vendidos de todos os tempos.",
+    "estatistica_2": "NjRat é uma das famílias de malware mais populares desde 2013.",
+    "estatistica_3": "Aumento na busca por conteúdos relacionados ao jogo após o lançamento do filme."
+  }
+}
+
+📊 PARSED DATA:
+{
+  "titulo_executivo": "Clone falso de Minecraft com vírus rouba senhas e espiona jogadores",
+  "resumo_executivo": "O incidente com o Eaglercraft e o malware NjRat representa uma ameaça significativa, especialmente para a segurança de dados de crianças. A popularidade de Minecraft e a distribuição do malware por meio de plataformas não oficiais exigem atenção imediata dos CISOs para proteger informações sensíveis e garantir a conformidade com a LGPD.",
+  "nivel_urgencia": "alto",
+  "categoria_visual": "MALWARE",
+  "impacto_negocio": {
+    "financeiro": "Possíveis custos associados a vazamentos de dados e danos à reputação.",
+    "operacional": "Roubo de senhas e acesso não autorizado a webcams e microfones.",
+    "setores_vulneraveis": [
+      "Educação",
+      "Entretenimento",
+      "Tecnologia"
+    ]
+  },
+  "acoes_imediatas": [
+    "Verificar se há instalações não autorizadas de jogos e aplicativos.",
+    "Implementar filtros de segurança para bloquear downloads de fontes não confiáveis.",
+    "Monitorar atividades suspeitas em dispositivos utilizados por crianças e adolescentes."
+  ],
+  "status_ameaca": {
+    "exploracao": "ativo",
+    "urgencia_verificacao": "alta"
+  },
+  "contexto_brasil": {
+    "relevancia": "CISOs devem se preocupar com a segurança de dados de usuários, especialmente em plataformas populares entre crianças, que são mais suscetíveis a ataques.",
+    "compliance": "Implicações legais relacionadas à proteção de dados de menores sob a LGPD."
+  },
+  "indicadores_chave": {
+    "estatistica_1": "Minecraft é um dos jogos mais vendidos de todos os tempos.",
+    "estatistica_2": "NjRat é uma das famílias de malware mais populares desde 2013.",
+    "estatistica_3": "Aumento na busca por conteúdos relacionados ao jogo após o lançamento do filme."
+  }
+}
+
