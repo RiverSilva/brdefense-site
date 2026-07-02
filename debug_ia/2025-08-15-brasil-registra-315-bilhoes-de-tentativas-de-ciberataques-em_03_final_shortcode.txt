@@ -1,0 +1,43 @@
+BR DEFENSE DEBUG - 03_FINAL_SHORTCODE
+================================================================================
+ARQUIVO: 2025-08-15-brasil-registra-315-bilhoes-de-tentativas-de-ciberataques-em.md
+TIMESTAMP: 2025-08-15 12:30:52
+================================================================================
+
+📤 INPUT/PROMPT:
+SHORTCODE GERADO + ANÁLISE:
+🔍 ANÁLISE DO SHORTCODE:
+✅ Campos com dados reais: 19
+⚠️ Campos usando fallback: 0
+❌ Campos vazios: 0
+
+
+
+📥 OUTPUT/RESPONSE:
+{{< brdefense-security-brief 
+titulo="Brasil registra 315 bilhões de tentativas de ciberataques em 2025"
+resumo_executivo="O Brasil enfrenta um cenário alarmante de ciberataques, com 315 bilhões de tentativas registradas no primeiro semestre de 2025. A vulnerabilidade de setores críticos, como saúde e indústria, e a baixa maturidade em segurança cibernética aumentam o risco de incidentes que podem ter consequências financeiras e legais severas."
+urgencia="alto"
+categoria="ATAQUE"
+impacto_financeiro="Possíveis perdas financeiras significativas devido a ataques bem-sucedidos e interrupções operacionais."
+impacto_operacional="Aumento significativo nas tentativas de ataques cibernéticos"
+setores_vulneraveis="['Saúde', 'Indústria', 'Agronegócio']"
+acoes_imediatas="Revisar e atualizar políticas de segurança cibernética e protocolos de resposta a incidentes.|Implementar autenticação em duas etapas e monitoramento contínuo de sistemas.|Acompanhar tentativas de acesso não autorizado e vulnerabilidades em dispositivos IoT."
+status_exploracao="ativo"
+urgencia_verificacao="alta"
+relevancia_brasil="Os altos números de tentativas de ciberataques no Brasil indicam uma vulnerabilidade crítica que pode impactar a continuidade dos negócios e a segurança de dados sensíveis."
+compliance_br="Implicações diretas na conformidade com a LGPD e na proteção de dados pessoais."
+stat1="315 bilhões de tentativas de ciberataques"
+stat1_label="Indicador"
+stat2="Mais de 80% do total de ataques na América Latina"
+stat2_label="Contexto BR"
+stat3="Crescimento de 25% nos ataques de ransomware"
+stat3_label="Urgência"
+data_brief="15/08/2025"
+>}}
+
+📊 PARSED DATA:
+{
+  "shortcode_length": 1634
+}
+
