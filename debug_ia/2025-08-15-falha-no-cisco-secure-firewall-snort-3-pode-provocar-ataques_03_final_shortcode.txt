@@ -1,0 +1,43 @@
+BR DEFENSE DEBUG - 03_FINAL_SHORTCODE
+================================================================================
+ARQUIVO: 2025-08-15-falha-no-cisco-secure-firewall-snort-3-pode-provocar-ataques.md
+TIMESTAMP: 2025-08-15 12:28:07
+================================================================================
+
+📤 INPUT/PROMPT:
+SHORTCODE GERADO + ANÁLISE:
+🔍 ANÁLISE DO SHORTCODE:
+✅ Campos com dados reais: 19
+⚠️ Campos usando fallback: 0
+❌ Campos vazios: 0
+
+
+
+📥 OUTPUT/RESPONSE:
+{{< brdefense-security-brief 
+titulo="Falha no Cisco Secure Firewall Snort 3 Pode Provocar Ataques DoS"
+resumo_executivo="A vulnerabilidade CVE-2025-20217 no Cisco Secure Firewall pode causar interrupções significativas nas operações de rede. A falta de soluções alternativas e a necessidade de atualização imediata tornam essa questão crítica para a segurança das organizações que utilizam esses dispositivos."
+urgencia="alto"
+categoria="VULNERABILIDADE"
+impacto_financeiro="Possíveis perdas financeiras devido à interrupção de serviços críticos."
+impacto_operacional="Interrupção das funções de segurança da rede."
+setores_vulneraveis="['Setores de tecnologia, finanças e serviços críticos que utilizam produtos Cisco']"
+acoes_imediatas="Verificar se o Snort 3 está ativo nas instalações do Cisco Secure FTD.|Aplicar as atualizações de software disponibilizadas pela Cisco.|Monitorar logs de tráfego para identificar tentativas de exploração."
+status_exploracao="patch_disponivel"
+urgencia_verificacao="alta"
+relevancia_brasil="CISOs devem se preocupar com a segurança da infraestrutura de rede e a possibilidade de interrupções operacionais."
+compliance_br="Implicações para a conformidade com a LGPD, especialmente em relação à proteção de dados."
+stat1="Pontuação CVSS de 8.6"
+stat1_label="Indicador"
+stat2="Vulnerabilidade afeta dispositivos com Snort 3 habilitado"
+stat2_label="Contexto BR"
+stat3="Sem evidências de exploração ativa até o momento"
+stat3_label="Urgência"
+data_brief="15/08/2025"
+>}}
+
+📊 PARSED DATA:
+{
+  "shortcode_length": 1505
+}
+
