@@ -1,0 +1,43 @@
+BR DEFENSE DEBUG - 03_FINAL_SHORTCODE
+================================================================================
+ARQUIVO: 2025-08-15-gangue-de-ransomware-interlock-ataca-governo-de-box-elder.md
+TIMESTAMP: 2025-08-15 12:27:33
+================================================================================
+
+📤 INPUT/PROMPT:
+SHORTCODE GERADO + ANÁLISE:
+🔍 ANÁLISE DO SHORTCODE:
+✅ Campos com dados reais: 19
+⚠️ Campos usando fallback: 0
+❌ Campos vazios: 0
+
+
+
+📥 OUTPUT/RESPONSE:
+{{< brdefense-security-brief 
+titulo="Gangue de ransomware Interlock ataca governo de Box Elder County, Utah"
+resumo_executivo="O ataque da Interlock ao Box Elder County destaca a vulnerabilidade de entidades governamentais a ataques de ransomware. Com 4,5 TB de dados comprometidos, a situação requer ações imediatas para proteger dados e serviços públicos, especialmente em um contexto onde a conformidade com a LGPD é crítica."
+urgencia="alto"
+categoria="RANSOMWARE"
+impacto_financeiro="Custos associados à recuperação de dados e interrupções de serviços."
+impacto_operacional="Interrupção de serviços e possível exposição de dados pessoais."
+setores_vulneraveis="['Governo', 'Serviços públicos', 'Saúde']"
+acoes_imediatas="Verificar a integridade dos sistemas e dados em uso.|Implementar medidas de segurança adicionais, como backups regulares e treinamento de funcionários sobre phishing.|Monitorar continuamente atividades suspeitas na rede e possíveis tentativas de acesso não autorizado."
+status_exploracao="investigacao"
+urgencia_verificacao="alta"
+relevancia_brasil="CISOs devem se preocupar com a crescente incidência de ataques de ransomware em entidades governamentais, que podem resultar em perda de dados e interrupções de serviços essenciais."
+compliance_br="Implicações diretas na LGPD, especialmente em relação à proteção de dados pessoais."
+stat1="4,5 TB de dados roubados"
+stat1_label="Indicador"
+stat2="2,1 milhões de arquivos comprometidos"
+stat2_label="Contexto BR"
+stat3="25 ataques confirmados pela Interlock"
+stat3_label="Urgência"
+data_brief="15/08/2025"
+>}}
+
+📊 PARSED DATA:
+{
+  "shortcode_length": 1585
+}
+
