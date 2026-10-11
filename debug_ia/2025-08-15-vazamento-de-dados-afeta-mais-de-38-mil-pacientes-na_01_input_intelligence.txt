@@ -1,0 +1,133 @@
+BR DEFENSE DEBUG - 01_INPUT_INTELLIGENCE
+================================================================================
+ARQUIVO: 2025-08-15-vazamento-de-dados-afeta-mais-de-38-mil-pacientes-na.md
+TIMESTAMP: 2025-08-15 21:57:51
+================================================================================
+
+📤 INPUT/PROMPT:
+INTELLIGENCE RECEBIDA (estrutura de entrada)
+
+📥 OUTPUT/RESPONSE:
+{
+  "titulo": "Vazamento de dados afeta mais de 38 mil pacientes na Virgínia",
+  "resumo": "O Mount Rogers Community Services Board, localizado na Virgínia Ocidental, notificou 38.191 pessoas sobre um vazamento de dados ocorrido em abril de 2025, que comprometeu informações sensíveis de pacientes, incluindo números de Seguro Social, datas de nascimento, informações de seguros e dados médicos. Além disso, informações de funcionários e seus dependentes também foram expostas. O grupo de ransomware conhecido como Inc reivindicou a responsabilidade pelo ataque em junho de 2025, publicando amostras de documentos supostamente roubados. O Mount Rogers não confirmou se um resgate foi pago ou como a rede foi comprometida. O incidente foi descoberto entre 27 e 29 de abril de 2025, quando a organização percebeu problemas em seus sistemas. Para mitigar os danos, o Mount Rogers está oferecendo serviços gratuitos de monitoramento de crédito e identidade aos afetados. O grupo Inc, que surgiu em julho de 2023, já realizou 116 ataques confirmados, com um foco crescente em instituições de saúde, onde os ataques podem causar sérios riscos à privacidade e segurança dos pacientes. Em 2025, já foram registrados 53 ataques de ransomware em provedores de saúde nos EUA, comprometendo mais de 3,4 milhões de registros.",
+  "categoria": "vazamento",
+  "nivel_risco": "alto",
+  "tags": [
+    "ransomware",
+    "vazamento de dados",
+    "cibersegurança",
+    "saúde",
+    "proteção de dados"
+  ],
+  "relevancia_executiva": {
+    "nivel": "alta",
+    "justificativa": "O incidente é ativo e envolve um grande vazamento de dados sensíveis, afetando diretamente a privacidade de pacientes e funcionários. A natureza do ataque e o grupo responsável são relevantes para o contexto de segurança cibernética no Brasil, onde instituições de saúde também são alvos frequentes.",
+    "tipo_conteudo": "incidente_ativo",
+    "aplicabilidade_brasil": "alta",
+    "dados_especificos": true,
+    "acoes_verificaveis": true
+  },
+  "intelligence_especifica": {
+    "vetor_ataque": "Spear phishing e exploração de vulnerabilidades conhecidas em software.",
+    "alvos_primarios": [
+      "Mount Rogers Community Services Board"
+    ],
+    "indicadores_tecnicos": [
+      "Inc Ransomware"
+    ],
+    "impacto_observado": "Exposição de dados sensíveis de 38.191 pacientes e funcionários.",
+    "timeline_incidente": "Descoberto entre 27 e 29 de abril de 2025.",
+    "status_atual": "investigacao"
+  },
+  "dados_quantitativos": {
+    "estatistica_1": "38.191 pessoas notificadas sobre o vazamento.",
+    "estatistica_2": "116 ataques confirmados pelo grupo Inc.",
+    "estatistica_3": "53 ataques de ransomware em provedores de saúde nos EUA em 2025."
+  },
+  "contexto_executivo": {
+    "porque_importa": "CISOs devem se preocupar com a crescente ameaça de ransomware, especialmente em setores críticos como saúde, onde a proteção de dados é vital.",
+    "setores_vulneraveis": [
+      "Saúde",
+      "Educação",
+      "Governo"
+    ],
+    "impacto_financeiro": "Custos potenciais associados a resgates e interrupções operacionais.",
+    "compliance_risk": "Implicações significativas para a conformidade com a LGPD, considerando a natureza dos dados expostos.",
+    "resumo": "O ataque ao Mount Rogers destaca a vulnerabilidade das instituições de saúde a ataques cibernéticos, com riscos diretos à privacidade dos pacientes e à continuidade dos serviços. A necessidade de medidas de segurança robustas e de um plano de resposta a incidentes é mais urgente do que nunca."
+  },
+  "acoes_especificas": {
+    "verificacao_imediata": "Verificar a segurança dos sistemas e a proteção de dados sensíveis.",
+    "mitigacao_rapida": "Implementar medidas de segurança adicionais e treinar funcionários sobre práticas de cibersegurança.",
+    "monitoramento": "Monitorar continuamente atividades suspeitas e possíveis tentativas de phishing."
+  },
+  "relevancia_brasil": {
+    "aplicavel_br": true,
+    "fornecedores_br": [],
+    "regulamentacao": "Implicações diretas para a conformidade com a LGPD, especialmente em relação ao tratamento de dados pessoais sensíveis.",
+    "setores_criticos_br": "Setores de saúde e serviços sociais."
+  }
+}
+
+📊 PARSED DATA:
+{
+  "titulo": "Vazamento de dados afeta mais de 38 mil pacientes na Virgínia",
+  "resumo": "O Mount Rogers Community Services Board, localizado na Virgínia Ocidental, notificou 38.191 pessoas sobre um vazamento de dados ocorrido em abril de 2025, que comprometeu informações sensíveis de pacientes, incluindo números de Seguro Social, datas de nascimento, informações de seguros e dados médicos. Além disso, informações de funcionários e seus dependentes também foram expostas. O grupo de ransomware conhecido como Inc reivindicou a responsabilidade pelo ataque em junho de 2025, publicando amostras de documentos supostamente roubados. O Mount Rogers não confirmou se um resgate foi pago ou como a rede foi comprometida. O incidente foi descoberto entre 27 e 29 de abril de 2025, quando a organização percebeu problemas em seus sistemas. Para mitigar os danos, o Mount Rogers está oferecendo serviços gratuitos de monitoramento de crédito e identidade aos afetados. O grupo Inc, que surgiu em julho de 2023, já realizou 116 ataques confirmados, com um foco crescente em instituições de saúde, onde os ataques podem causar sérios riscos à privacidade e segurança dos pacientes. Em 2025, já foram registrados 53 ataques de ransomware em provedores de saúde nos EUA, comprometendo mais de 3,4 milhões de registros.",
+  "categoria": "vazamento",
+  "nivel_risco": "alto",
+  "tags": [
+    "ransomware",
+    "vazamento de dados",
+    "cibersegurança",
+    "saúde",
+    "proteção de dados"
+  ],
+  "relevancia_executiva": {
+    "nivel": "alta",
+    "justificativa": "O incidente é ativo e envolve um grande vazamento de dados sensíveis, afetando diretamente a privacidade de pacientes e funcionários. A natureza do ataque e o grupo responsável são relevantes para o contexto de segurança cibernética no Brasil, onde instituições de saúde também são alvos frequentes.",
+    "tipo_conteudo": "incidente_ativo",
+    "aplicabilidade_brasil": "alta",
+    "dados_especificos": true,
+    "acoes_verificaveis": true
+  },
+  "intelligence_especifica": {
+    "vetor_ataque": "Spear phishing e exploração de vulnerabilidades conhecidas em software.",
+    "alvos_primarios": [
+      "Mount Rogers Community Services Board"
+    ],
+    "indicadores_tecnicos": [
+      "Inc Ransomware"
+    ],
+    "impacto_observado": "Exposição de dados sensíveis de 38.191 pacientes e funcionários.",
+    "timeline_incidente": "Descoberto entre 27 e 29 de abril de 2025.",
+    "status_atual": "investigacao"
+  },
+  "dados_quantitativos": {
+    "estatistica_1": "38.191 pessoas notificadas sobre o vazamento.",
+    "estatistica_2": "116 ataques confirmados pelo grupo Inc.",
+    "estatistica_3": "53 ataques de ransomware em provedores de saúde nos EUA em 2025."
+  },
+  "contexto_executivo": {
+    "porque_importa": "CISOs devem se preocupar com a crescente ameaça de ransomware, especialmente em setores críticos como saúde, onde a proteção de dados é vital.",
+    "setores_vulneraveis": [
+      "Saúde",
+      "Educação",
+      "Governo"
+    ],
+    "impacto_financeiro": "Custos potenciais associados a resgates e interrupções operacionais.",
+    "compliance_risk": "Implicações significativas para a conformidade com a LGPD, considerando a natureza dos dados expostos.",
+    "resumo": "O ataque ao Mount Rogers destaca a vulnerabilidade das instituições de saúde a ataques cibernéticos, com riscos diretos à privacidade dos pacientes e à continuidade dos serviços. A necessidade de medidas de segurança robustas e de um plano de resposta a incidentes é mais urgente do que nunca."
+  },
+  "acoes_especificas": {
+    "verificacao_imediata": "Verificar a segurança dos sistemas e a proteção de dados sensíveis.",
+    "mitigacao_rapida": "Implementar medidas de segurança adicionais e treinar funcionários sobre práticas de cibersegurança.",
+    "monitoramento": "Monitorar continuamente atividades suspeitas e possíveis tentativas de phishing."
+  },
+  "relevancia_brasil": {
+    "aplicavel_br": true,
+    "fornecedores_br": [],
+    "regulamentacao": "Implicações diretas para a conformidade com a LGPD, especialmente em relação ao tratamento de dados pessoais sensíveis.",
+    "setores_criticos_br": "Setores de saúde e serviços sociais."
+  }
+}
+

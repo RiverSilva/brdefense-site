@@ -1,0 +1,139 @@
+BR DEFENSE DEBUG - 01_INPUT_INTELLIGENCE
+================================================================================
+ARQUIVO: 2025-08-15-clone-falso-de-minecraft-com-virus-rouba-senhas-e-espiona.md
+TIMESTAMP: 2025-08-15 21:58:44
+================================================================================
+
+📤 INPUT/PROMPT:
+INTELLIGENCE RECEBIDA (estrutura de entrada)
+
+📥 OUTPUT/RESPONSE:
+{
+  "titulo": "Clone falso de Minecraft com vírus rouba senhas e espiona jogadores",
+  "resumo": "A equipe Lat61 de Inteligência de Ameaças da Point Wild identificou um clone malicioso do popular jogo Minecraft, chamado Eaglercraft 1.12 Offline, que contém um trojan de acesso remoto (RAT) conhecido como NjRat. Este malware permite que cibercriminosos roubem senhas, acessem webcams e microfones, e controlem máquinas infectadas sem o conhecimento do usuário. A popularidade de Minecraft, especialmente entre crianças e adolescentes, torna os jogadores alvos vulneráveis a esses ataques. O Eaglercraft é disfarçado como um launcher baseado em navegador e, ao ser executado, instala um backdoor chamado 'WindowsServices.exe', que se inicia automaticamente com o sistema operacional. O NjRat, que existe desde 2013, é um dos malwares mais persistentes, sendo frequentemente distribuído por e-mails de phishing e softwares piratas. A ameaça é agravada pela recente popularidade do jogo, impulsionada pelo lançamento de um filme live-action, aumentando a busca por conteúdos relacionados. A pesquisa destaca a necessidade de conscientização e precauções ao baixar jogos e aplicativos não oficiais.",
+  "categoria": "malware",
+  "nivel_risco": "alto",
+  "tags": [
+    "Minecraft",
+    "malware",
+    "NjRat",
+    "cibersegurança",
+    "segurança infantil"
+  ],
+  "relevancia_executiva": {
+    "nivel": "alta",
+    "justificativa": "O artigo relata um incidente ativo de segurança que afeta um jogo amplamente utilizado no Brasil, com implicações diretas para a segurança de dados de usuários, especialmente crianças. A necessidade de ações preventivas é clara.",
+    "tipo_conteudo": "incidente_ativo",
+    "aplicabilidade_brasil": "alta",
+    "dados_especificos": true,
+    "acoes_verificaveis": true
+  },
+  "intelligence_especifica": {
+    "vetor_ataque": "Instalação do Eaglercraft disfarçado como launcher do Minecraft.",
+    "alvos_primarios": [
+      "Jogadores de Minecraft, especialmente crianças e adolescentes."
+    ],
+    "indicadores_tecnicos": [
+      "NjRat",
+      "WindowsServices.exe"
+    ],
+    "impacto_observado": "Roubo de senhas e acesso não autorizado a webcams e microfones.",
+    "timeline_incidente": "Identificado em agosto de 2025.",
+    "status_atual": "ativo"
+  },
+  "dados_quantitativos": {
+    "estatistica_1": "Minecraft é um dos jogos mais vendidos de todos os tempos.",
+    "estatistica_2": "NjRat é uma das famílias de malware mais populares desde 2013.",
+    "estatistica_3": "Aumento na busca por conteúdos relacionados ao jogo após o lançamento do filme."
+  },
+  "contexto_executivo": {
+    "porque_importa": "CISOs devem se preocupar com a segurança de dados de usuários, especialmente em plataformas populares entre crianças, que são mais suscetíveis a ataques.",
+    "setores_vulneraveis": [
+      "Educação",
+      "Entretenimento",
+      "Tecnologia"
+    ],
+    "impacto_financeiro": "Possíveis custos associados a vazamentos de dados e danos à reputação.",
+    "compliance_risk": "Implicações para a conformidade com a LGPD, especialmente em relação à proteção de dados de menores.",
+    "resumo": "O incidente com o Eaglercraft e o malware NjRat representa uma ameaça significativa, especialmente para a segurança de dados de crianças. A popularidade de Minecraft e a distribuição do malware por meio de plataformas não oficiais exigem atenção imediata dos CISOs para proteger informações sensíveis e garantir a conformidade com a LGPD."
+  },
+  "acoes_especificas": {
+    "verificacao_imediata": "Verificar se há instalações não autorizadas de jogos e aplicativos.",
+    "mitigacao_rapida": "Implementar filtros de segurança para bloquear downloads de fontes não confiáveis.",
+    "monitoramento": "Monitorar atividades suspeitas em dispositivos utilizados por crianças e adolescentes."
+  },
+  "relevancia_brasil": {
+    "aplicavel_br": true,
+    "fornecedores_br": [
+      "Empresas de jogos e plataformas de download no Brasil."
+    ],
+    "regulamentacao": "Implicações legais relacionadas à proteção de dados de menores sob a LGPD.",
+    "setores_criticos_br": "Educação e entretenimento digital."
+  }
+}
+
+📊 PARSED DATA:
+{
+  "titulo": "Clone falso de Minecraft com vírus rouba senhas e espiona jogadores",
+  "resumo": "A equipe Lat61 de Inteligência de Ameaças da Point Wild identificou um clone malicioso do popular jogo Minecraft, chamado Eaglercraft 1.12 Offline, que contém um trojan de acesso remoto (RAT) conhecido como NjRat. Este malware permite que cibercriminosos roubem senhas, acessem webcams e microfones, e controlem máquinas infectadas sem o conhecimento do usuário. A popularidade de Minecraft, especialmente entre crianças e adolescentes, torna os jogadores alvos vulneráveis a esses ataques. O Eaglercraft é disfarçado como um launcher baseado em navegador e, ao ser executado, instala um backdoor chamado 'WindowsServices.exe', que se inicia automaticamente com o sistema operacional. O NjRat, que existe desde 2013, é um dos malwares mais persistentes, sendo frequentemente distribuído por e-mails de phishing e softwares piratas. A ameaça é agravada pela recente popularidade do jogo, impulsionada pelo lançamento de um filme live-action, aumentando a busca por conteúdos relacionados. A pesquisa destaca a necessidade de conscientização e precauções ao baixar jogos e aplicativos não oficiais.",
+  "categoria": "malware",
+  "nivel_risco": "alto",
+  "tags": [
+    "Minecraft",
+    "malware",
+    "NjRat",
+    "cibersegurança",
+    "segurança infantil"
+  ],
+  "relevancia_executiva": {
+    "nivel": "alta",
+    "justificativa": "O artigo relata um incidente ativo de segurança que afeta um jogo amplamente utilizado no Brasil, com implicações diretas para a segurança de dados de usuários, especialmente crianças. A necessidade de ações preventivas é clara.",
+    "tipo_conteudo": "incidente_ativo",
+    "aplicabilidade_brasil": "alta",
+    "dados_especificos": true,
+    "acoes_verificaveis": true
+  },
+  "intelligence_especifica": {
+    "vetor_ataque": "Instalação do Eaglercraft disfarçado como launcher do Minecraft.",
+    "alvos_primarios": [
+      "Jogadores de Minecraft, especialmente crianças e adolescentes."
+    ],
+    "indicadores_tecnicos": [
+      "NjRat",
+      "WindowsServices.exe"
+    ],
+    "impacto_observado": "Roubo de senhas e acesso não autorizado a webcams e microfones.",
+    "timeline_incidente": "Identificado em agosto de 2025.",
+    "status_atual": "ativo"
+  },
+  "dados_quantitativos": {
+    "estatistica_1": "Minecraft é um dos jogos mais vendidos de todos os tempos.",
+    "estatistica_2": "NjRat é uma das famílias de malware mais populares desde 2013.",
+    "estatistica_3": "Aumento na busca por conteúdos relacionados ao jogo após o lançamento do filme."
+  },
+  "contexto_executivo": {
+    "porque_importa": "CISOs devem se preocupar com a segurança de dados de usuários, especialmente em plataformas populares entre crianças, que são mais suscetíveis a ataques.",
+    "setores_vulneraveis": [
+      "Educação",
+      "Entretenimento",
+      "Tecnologia"
+    ],
+    "impacto_financeiro": "Possíveis custos associados a vazamentos de dados e danos à reputação.",
+    "compliance_risk": "Implicações para a conformidade com a LGPD, especialmente em relação à proteção de dados de menores.",
+    "resumo": "O incidente com o Eaglercraft e o malware NjRat representa uma ameaça significativa, especialmente para a segurança de dados de crianças. A popularidade de Minecraft e a distribuição do malware por meio de plataformas não oficiais exigem atenção imediata dos CISOs para proteger informações sensíveis e garantir a conformidade com a LGPD."
+  },
+  "acoes_especificas": {
+    "verificacao_imediata": "Verificar se há instalações não autorizadas de jogos e aplicativos.",
+    "mitigacao_rapida": "Implementar filtros de segurança para bloquear downloads de fontes não confiáveis.",
+    "monitoramento": "Monitorar atividades suspeitas em dispositivos utilizados por crianças e adolescentes."
+  },
+  "relevancia_brasil": {
+    "aplicavel_br": true,
+    "fornecedores_br": [
+      "Empresas de jogos e plataformas de download no Brasil."
+    ],
+    "regulamentacao": "Implicações legais relacionadas à proteção de dados de menores sob a LGPD.",
+    "setores_criticos_br": "Educação e entretenimento digital."
+  }
+}
+
