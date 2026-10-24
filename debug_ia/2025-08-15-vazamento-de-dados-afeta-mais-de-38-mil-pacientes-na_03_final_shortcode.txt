@@ -1,0 +1,43 @@
+BR DEFENSE DEBUG - 03_FINAL_SHORTCODE
+================================================================================
+ARQUIVO: 2025-08-15-vazamento-de-dados-afeta-mais-de-38-mil-pacientes-na.md
+TIMESTAMP: 2025-08-15 21:57:51
+================================================================================
+
+📤 INPUT/PROMPT:
+SHORTCODE GERADO + ANÁLISE:
+🔍 ANÁLISE DO SHORTCODE:
+✅ Campos com dados reais: 19
+⚠️ Campos usando fallback: 0
+❌ Campos vazios: 0
+
+
+
+📥 OUTPUT/RESPONSE:
+{{< brdefense-security-brief 
+titulo="Vazamento de dados afeta mais de 38 mil pacientes na Virgínia"
+resumo_executivo="O ataque ao Mount Rogers destaca a vulnerabilidade das instituições de saúde a ataques cibernéticos, com riscos diretos à privacidade dos pacientes e à continuidade dos serviços. A necessidade de medidas de segurança robustas e de um plano de resposta a incidentes é mais urgente do que nunca."
+urgencia="alto"
+categoria="VAZAMENTO"
+impacto_financeiro="Custos potenciais associados a resgates e interrupções operacionais."
+impacto_operacional="Exposição de dados sensíveis de 38.191 pacientes e funcionários."
+setores_vulneraveis="['Saúde', 'Educação', 'Governo']"
+acoes_imediatas="Verificar a segurança dos sistemas e a proteção de dados sensíveis.|Implementar medidas de segurança adicionais e treinar funcionários sobre práticas de cibersegurança.|Monitorar continuamente atividades suspeitas e possíveis tentativas de phishing."
+status_exploracao="investigacao"
+urgencia_verificacao="alta"
+relevancia_brasil="CISOs devem se preocupar com a crescente ameaça de ransomware, especialmente em setores críticos como saúde, onde a proteção de dados é vital."
+compliance_br="Implicações diretas para a conformidade com a LGPD, especialmente em relação ao tratamento de dados pessoais sensíveis."
+stat1="38.191 pessoas notificadas sobre o vazamento."
+stat1_label="Indicador"
+stat2="116 ataques confirmados pelo grupo Inc."
+stat2_label="Contexto BR"
+stat3="53 ataques de ransomware em provedores de saúde nos EUA em 2025."
+stat3_label="Urgência"
+data_brief="15/08/2025"
+>}}
+
+📊 PARSED DATA:
+{
+  "shortcode_length": 1587
+}
+
