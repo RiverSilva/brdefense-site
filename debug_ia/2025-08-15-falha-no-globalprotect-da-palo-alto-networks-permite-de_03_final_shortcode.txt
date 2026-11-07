@@ -1,0 +1,43 @@
+BR DEFENSE DEBUG - 03_FINAL_SHORTCODE
+================================================================================
+ARQUIVO: 2025-08-15-falha-no-globalprotect-da-palo-alto-networks-permite-de.md
+TIMESTAMP: 2025-08-15 15:58:52
+================================================================================
+
+📤 INPUT/PROMPT:
+SHORTCODE GERADO + ANÁLISE:
+🔍 ANÁLISE DO SHORTCODE:
+✅ Campos com dados reais: 19
+⚠️ Campos usando fallback: 0
+❌ Campos vazios: 0
+
+
+
+📥 OUTPUT/RESPONSE:
+{{< brdefense-security-brief 
+titulo="Falha no GlobalProtect da Palo Alto Networks Permite Escalação de Privilégios"
+resumo_executivo="A vulnerabilidade CVE-2025-2183 no GlobalProtect pode permitir que atacantes escalem privilégios e instalem software malicioso. A correção é urgente para evitar exploração em ambientes corporativos."
+urgencia="alto"
+categoria="VULNERABILIDADE"
+impacto_financeiro="Possíveis custos associados à recuperação de incidentes de segurança e perda de dados."
+impacto_operacional="Não foram observadas explorações maliciosas até o momento."
+setores_vulneraveis="['Tecnologia da informação', 'Serviços financeiros', 'Setores governamentais']"
+acoes_imediatas="Verificar a versão do GlobalProtect em uso e identificar sistemas vulneráveis.|Aplicar as atualizações de segurança disponibilizadas pela Palo Alto Networks.|Monitorar logs de acesso e tentativas de conexão suspeitas na rede."
+status_exploracao="patch_disponivel"
+urgencia_verificacao="alta"
+relevancia_brasil="CISOs devem se preocupar com a possibilidade de exploração local que pode comprometer a segurança da rede."
+compliance_br="Implicações para a conformidade com a LGPD, especialmente em relação à proteção de dados sensíveis."
+stat1="Pontuação CVSS de 4.5"
+stat1_label="Indicador"
+stat2="Afeta versões anteriores a 6.3.3-h2 do GlobalProtect App"
+stat2_label="Contexto BR"
+stat3="Impacta sistemas Windows e Linux, mas não Android, iOS ou macOS."
+stat3_label="Urgência"
+data_brief="15/08/2025"
+>}}
+
+📊 PARSED DATA:
+{
+  "shortcode_length": 1489
+}
+
