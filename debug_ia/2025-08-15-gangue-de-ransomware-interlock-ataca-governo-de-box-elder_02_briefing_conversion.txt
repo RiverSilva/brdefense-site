@@ -1,0 +1,79 @@
+BR DEFENSE DEBUG - 02_BRIEFING_CONVERSION
+================================================================================
+ARQUIVO: 2025-08-15-gangue-de-ransomware-interlock-ataca-governo-de-box-elder.md
+TIMESTAMP: 2025-08-15 12:27:33
+================================================================================
+
+📤 INPUT/PROMPT:
+CONVERSÃO INTELLIGENCE → BRIEFING
+
+📥 OUTPUT/RESPONSE:
+{
+  "titulo_executivo": "Gangue de ransomware Interlock ataca governo de Box Elder County, Utah",
+  "resumo_executivo": "O ataque da Interlock ao Box Elder County destaca a vulnerabilidade de entidades governamentais a ataques de ransomware. Com 4,5 TB de dados comprometidos, a situação requer ações imediatas para proteger dados e serviços públicos, especialmente em um contexto onde a conformidade com a LGPD é crítica.",
+  "nivel_urgencia": "alto",
+  "categoria_visual": "RANSOMWARE",
+  "impacto_negocio": {
+    "financeiro": "Custos associados à recuperação de dados e interrupções de serviços.",
+    "operacional": "Interrupção de serviços e possível exposição de dados pessoais.",
+    "setores_vulneraveis": [
+      "Governo",
+      "Serviços públicos",
+      "Saúde"
+    ]
+  },
+  "acoes_imediatas": [
+    "Verificar a integridade dos sistemas e dados em uso.",
+    "Implementar medidas de segurança adicionais, como backups regulares e treinamento de funcionários sobre phishing.",
+    "Monitorar continuamente atividades suspeitas na rede e possíveis tentativas de acesso não autorizado."
+  ],
+  "status_ameaca": {
+    "exploracao": "investigacao",
+    "urgencia_verificacao": "alta"
+  },
+  "contexto_brasil": {
+    "relevancia": "CISOs devem se preocupar com a crescente incidência de ataques de ransomware em entidades governamentais, que podem resultar em perda de dados e interrupções de serviços essenciais.",
+    "compliance": "Implicações diretas na LGPD, especialmente em relação à proteção de dados pessoais."
+  },
+  "indicadores_chave": {
+    "estatistica_1": "4,5 TB de dados roubados",
+    "estatistica_2": "2,1 milhões de arquivos comprometidos",
+    "estatistica_3": "25 ataques confirmados pela Interlock"
+  }
+}
+
+📊 PARSED DATA:
+{
+  "titulo_executivo": "Gangue de ransomware Interlock ataca governo de Box Elder County, Utah",
+  "resumo_executivo": "O ataque da Interlock ao Box Elder County destaca a vulnerabilidade de entidades governamentais a ataques de ransomware. Com 4,5 TB de dados comprometidos, a situação requer ações imediatas para proteger dados e serviços públicos, especialmente em um contexto onde a conformidade com a LGPD é crítica.",
+  "nivel_urgencia": "alto",
+  "categoria_visual": "RANSOMWARE",
+  "impacto_negocio": {
+    "financeiro": "Custos associados à recuperação de dados e interrupções de serviços.",
+    "operacional": "Interrupção de serviços e possível exposição de dados pessoais.",
+    "setores_vulneraveis": [
+      "Governo",
+      "Serviços públicos",
+      "Saúde"
+    ]
+  },
+  "acoes_imediatas": [
+    "Verificar a integridade dos sistemas e dados em uso.",
+    "Implementar medidas de segurança adicionais, como backups regulares e treinamento de funcionários sobre phishing.",
+    "Monitorar continuamente atividades suspeitas na rede e possíveis tentativas de acesso não autorizado."
+  ],
+  "status_ameaca": {
+    "exploracao": "investigacao",
+    "urgencia_verificacao": "alta"
+  },
+  "contexto_brasil": {
+    "relevancia": "CISOs devem se preocupar com a crescente incidência de ataques de ransomware em entidades governamentais, que podem resultar em perda de dados e interrupções de serviços essenciais.",
+    "compliance": "Implicações diretas na LGPD, especialmente em relação à proteção de dados pessoais."
+  },
+  "indicadores_chave": {
+    "estatistica_1": "4,5 TB de dados roubados",
+    "estatistica_2": "2,1 milhões de arquivos comprometidos",
+    "estatistica_3": "25 ataques confirmados pela Interlock"
+  }
+}
+
