@@ -1,0 +1,25 @@
+<svg width="300" height="60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo -->
+  <rect width="300" height="60" fill="#2c3e50"/>
+  
+  <!-- Ícone de escudo -->
+  <path d="M30 15 L35 10 L40 15 L40 35 C40 40, 35 45, 30 45 C25 45, 20 40, 20 35 L20 15 Z" 
+        fill="#3498db" stroke="#ecf0f1" stroke-width="1"/>
+  
+  <!-- Texto BR Defense -->
+  <text x="50" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ecf0f1">
+    BR DEFENSE
+  </text>
+  
+  <!-- Texto Center -->
+  <text x="50" y="42" font-family="Arial, sans-serif" font-size="12" fill="#bdc3c7">
+    CENTER
+  </text>
+  
+  <!-- Pontos de conexão (como rede) -->
+  <circle cx="250" cy="20" r="2" fill="#e74c3c"/>
+  <circle cx="260" cy="25" r="2" fill="#e74c3c"/>
+  <circle cx="270" cy="30" r="2" fill="#e74c3c"/>
+  <line x1="250" y1="20" x2="260" y2="25" stroke="#e74c3c" stroke-width="1"/>
+  <line x1="260" y1="25" x2="270" y2="30" stroke="#e74c3c" stroke-width="1"/>
+</svg>
